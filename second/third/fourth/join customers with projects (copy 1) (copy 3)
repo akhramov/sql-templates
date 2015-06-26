@@ -1,0 +1,1 @@
+SELECT name, company, email FROM customers LEFT OUTER JOIN projects ON customers.id=projects.customer_id;

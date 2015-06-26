@@ -1,0 +1,1 @@
+UPDATE workers SET salary = 10500 WHERE position='IT manager';
